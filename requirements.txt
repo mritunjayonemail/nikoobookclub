@@ -1,0 +1,5 @@
+openai
+flask
+flask_cors
+flasgger==0.9.5
+gunicorn==20.1.0
